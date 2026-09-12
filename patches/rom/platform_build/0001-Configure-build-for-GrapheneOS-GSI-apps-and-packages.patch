@@ -60,7 +60,7 @@ index 06de021..492e8a1 100644
          // media_product
          ///////////////////////////////////////////
 -        "webview",
-+        "TrichromeWebView"
++        "TrichromeWebView",
          "preinstalled-packages-media-product.xml",
          ///////////////////////////////////////////
          // base_product
